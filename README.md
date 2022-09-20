@@ -1,3 +1,3 @@
-Kotlin İle sit Android Uygulamaları
+##Kotlin İle basit Android Uygulamaları
 
 
