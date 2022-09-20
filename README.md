@@ -1,2 +1,3 @@
-# androidapp
-Basit Android Uygulamalar
+Kotlin İle sit Android Uygulamaları
+
+
